@@ -4,7 +4,7 @@ import (
 	"errors"
 
 	"github.com/huaweicloud/golangsdk"
-	"github.com/opensourceways/community-robot-lib/config"
+	"github.com/opensourceways/server-common-lib/config"
 )
 
 type configuration struct {
